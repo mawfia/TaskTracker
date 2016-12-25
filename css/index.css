@@ -1,0 +1,60 @@
+@CHARSET "ISO-8859-1";
+
+#header{
+	background-color: gray;
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+
+.todosStatus-default{
+	background-color: black;
+	color: gray;
+	padding-left : 5px;
+    padding-right : 5px;
+	border-radius : 5px;
+}
+
+.todosStatus-red{
+	background-color: red;
+	color: black;
+	padding-left : 5px;
+    padding-right : 5px;
+	border-radius : 5px;
+}
+
+.todosStatus-yellow{
+	background-color: yellow;
+	color: black;
+	padding-left : 5px;
+    padding-right : 5px;
+	border-radius : 5px;
+}
+
+.todosStatus-green{
+	background-color: green;
+	color: white;
+	padding-left : 5px;
+    padding-right : 5px;
+	border-radius : 5px;
+}
+
+.strike{
+	text-decoration : line-through;
+}
+
+#footer{
+	text-align: center;
+}
+
+#completeTodos{
+	background-color: blue;
+	color: white;
+	padding-left : 5px;
+    padding-right : 5px;
+	border-radius : 5px;
+}
+
+#action{
+	text-align: center;
+}
