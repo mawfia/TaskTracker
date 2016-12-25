@@ -7,7 +7,7 @@ This will be a Single Page AngularJS 1.5/JavaScript/jQuery/Spring/REST CRUD proj
 
 HOW TO USE:
 ---------------------
-This is a basic task orginzer/tracker. The buttons are user friendly and fairly self-explanatory i.e. the "add todo" button adds tasks with the text the user inputs.  Tasks can be deleted, updated, and checked as completed.  A counter at the top keeps track of remaining tasks and a counter at the bottom of the application keeps track of tasks that are complete.  The use can show all tacks including completed tasks by clicking the "show completed tasks" checkbox.
+This is a basic task orginzer/tracker. The buttons are user friendly and fairly self-explanatory i.e. the "add todo" button adds tasks with the text the user inputs.  Tasks can be deleted, updated, and checked as completed.  A counter at the top keeps track of remaining tasks and a counter at the bottom of the application keeps track of tasks that are complete.  The user can show all tasks including completed tasks by clicking the "show completed tasks" checkbox.
 
 
 NOTE TO USER:
