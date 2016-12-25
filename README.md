@@ -26,7 +26,7 @@ TECHNOLOGY USED:
 
 8.  The application is deployed on a AWS account for cloud services.
 
-This web application may be viewed at: http://mawfia.com:8080/TaskTracker/
+This web application may be viewed at: http://mawfia.com/TaskTracker/
 
 Current Maintainer:
  * Michael Williams
