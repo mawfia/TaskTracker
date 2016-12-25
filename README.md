@@ -1,4 +1,4 @@
-s# Todo Tracker
+# Todo Tracker
 Individual Project created 22 December 2016
 
 INTRODUCTION:
